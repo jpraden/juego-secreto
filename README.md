@@ -15,3 +15,6 @@ Se declaron variable del tipo integer para variables iniciales y de otro tipo li
  - function condicionesIniciales()
  - function reiniciarJuego()
  - condicionesIniciales()
+
+<h1>Para ingresar al juego</h1>
+ - has click en esta url --> https://jpraden.github.io/juego-secreto/
