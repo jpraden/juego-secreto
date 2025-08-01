@@ -1,3 +1,4 @@
+<h1> Practica de Juego número secreto </h1>
 Este juego se ha implementado en javascript, para aprender lógica en curso Alura
 
 Se declaron variable del tipo integer para variables iniciales y de otro tipo lista para:
